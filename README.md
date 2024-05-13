@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishabh Lingwal</h1>
+<h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">A fresher who is passionate about Web Development.</h3>
 
 - 🌱 I’m currently learning **Javascript fundamentals**
